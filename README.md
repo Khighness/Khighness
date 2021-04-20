@@ -3,7 +3,7 @@
 a developer of deleting database.
 
 
-#### 🚀 OS | Language | IDE
+### 🚀 OS | Language | IDE
 
 ![Centos](https://img.shields.io/badge/-CentOS-000000?style=style=for-the-badget&logo=Centos)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=style=for-the-badge&logo=Windows)
@@ -21,6 +21,6 @@ a developer of deleting database.
 
 
 
-#### 💠 Github status
+### 💠 Github status
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=Khighness&show_icons=true)
