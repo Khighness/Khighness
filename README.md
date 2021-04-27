@@ -4,7 +4,7 @@ A young developer for deleting database.
 
 
 
-### 🚀 OS | Language | Middleware || IDE
+### 🚀 OS | Lan | MID | IDE
 
 ![Centos](https://img.shields.io/badge/-CentOS-000000?style=style=for-the-badget&logo=Centos)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=style=for-the-badge&logo=Windows)
