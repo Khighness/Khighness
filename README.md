@@ -9,6 +9,7 @@ A young developer for deleting database.
 ![Centos](https://img.shields.io/badge/-CentOS-000000?style=style=for-the-badget&logo=Centos)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=style=for-the-badge&logo=Windows)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=style=for-the-badge&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=style=for-the-badge&logo=Kubernetes)
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=style=for-the-badge&logo=Java)
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=style=for-the-badge&logo=Google)
