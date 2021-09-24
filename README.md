@@ -18,9 +18,9 @@ A young developer for deleting database.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=style=for-the-badge&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=style=for-the-badge&logo=Redis)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=style=for-the-badget&logo=RabbitMQ)
 ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=style=for-the-badge&logo=Apache%20Kafka)
 ![Elaticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=style=for-the-badge&logo=Elasticsearch)
-![Kibana](https://img.shields.io/badge/-Kibana-000000?style=style=for-the-badge&logo=Kibana)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=style=for-the-badge&logo=IntelliJ%20IDEA)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=style=for-the-badge&logo=Postman)
