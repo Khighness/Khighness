@@ -1,6 +1,6 @@
 ###  :man_technologist: Khighness
 
-A young developer for deleting database.
+A young developer for deleting data.
 
 
 
