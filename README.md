@@ -9,13 +9,14 @@ A young developer for deleting data.
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=style=for-the-badge&logo=MacOS)
 ![Centos](https://img.shields.io/badge/-CentOS-000000?style=style=for-the-badget&logo=Centos)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=style=for-the-badge&logo=Windows)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=style=for-the-badge&logo=Kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=style=for-the-badge&logo=Docker)
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=style=for-the-badge&logo=Java)
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=style=for-the-badge&logo=Google)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=style=for-the-badge&logo=SpringBoot)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=style=for-the-badge&logo=Vue.js)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=style=for-the-badge&logo=ApacheHadoop)
+![Spark](https://img.shields.io/badge/-Spark-000000?style=style=for-the-badge&logo=ApacheSpark)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=style=for-the-badge&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=style=for-the-badge&logo=Redis)
@@ -24,6 +25,7 @@ A young developer for deleting data.
 ![Elaticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=style=for-the-badge&logo=Elasticsearch)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=style=for-the-badge&logo=IntelliJ%20IDEA)
+![VS code](https://img.shields.io/badge/-VScode-000000?style=style=for-the-badge&logo=VisualStudioCode)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=style=for-the-badge&logo=Postman)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-000000?style=style=for-the-badge&logo=Windows%20Terminal)
 
