@@ -1,4 +1,4 @@
-###  :man_technologist: Chen Zikang
+### 🐼 Chen Zikang
 
 <b>A young developer for deleting data.</b>
 
