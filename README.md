@@ -33,5 +33,5 @@
 
 ### 💠 Github status
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=Khighness&show_icons=true)
+![Github Status](https://github-readme-stats.vercel.app/api?username=Khighness&theme=tokyonight&show_icons=true)
 
