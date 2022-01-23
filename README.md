@@ -25,9 +25,9 @@
 ![Elaticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=style=for-the-badge&logo=Elasticsearch)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=style=for-the-badge&logo=IntelliJ%20IDEA)
+![Goland](https://img.shields.io/badge/-Goland-000000?style=style=for-the-badge&logo=Goland)
 ![VS code](https://img.shields.io/badge/-VScode-000000?style=style=for-the-badge&logo=VisualStudioCode)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=style=for-the-badge&logo=Postman)
-![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-000000?style=style=for-the-badge&logo=Windows%20Terminal)
 
 
 
