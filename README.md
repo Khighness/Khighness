@@ -26,7 +26,8 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=style=for-the-badge&logo=IntelliJ%20IDEA)
 ![Goland](https://img.shields.io/badge/-Goland-000000?style=style=for-the-badge&logo=Goland)
-![VS code](https://img.shields.io/badge/-VScode-000000?style=style=for-the-badge&logo=VisualStudioCode)
+![VScode](https://img.shields.io/badge/-VScode-000000?style=style=for-the-badge&logo=VisualStudioCode)
+![VMware](https://img.shields.io/badge/-VMware-000000?style=style=for-the-badge&logo=VMware)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=style=for-the-badge&logo=Postman)
 
 
