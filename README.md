@@ -15,6 +15,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=style=for-the-badge&logo=Java)
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=style=for-the-badge&logo=Google)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=style=for-the-badge&logo=SpringBoot)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=style=for-the-badge&logo=Vue.js)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=style=for-the-badge&logo=ApacheHadoop)
 ![Spark](https://img.shields.io/badge/-Spark-000000?style=style=for-the-badge&logo=ApacheSpark)
 
