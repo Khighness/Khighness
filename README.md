@@ -1,6 +1,6 @@
-### 🐼 Chen Zikang
+### 🐼 <font face="Old English Text MT, Kunstler Script" color="#3491ff">Chen Zikang</font>
 
-<b>A young developer for deleting data.</b>
+<b>Khighness, a young developer for deleting data.</b>
 
 
 
