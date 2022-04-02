@@ -1,6 +1,6 @@
 ### 🐼 <font face="Old English Text MT, Kunstler Script" color="#3491ff">Khighness</font>
 
-<b>I am Chen Zikang, love distributed KV storage and cloud native</b>
+<b>I am Chen Zikang, love distributed KV storage and cloud native.</b>
 
 
 
