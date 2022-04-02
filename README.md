@@ -1,6 +1,6 @@
 ### 🐼 <font face="Old English Text MT, Kunstler Script" color="#3491ff">Khighness</font>
 
-<b>Chen Zikang, a young developer for deleting data.</b>
+<b>I am Chen Zikang, love distributed KV storage and cloud native</b>
 
 
 
