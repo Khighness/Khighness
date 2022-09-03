@@ -8,7 +8,6 @@
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=style=for-the-badge&logo=MacOS)
 ![Centos](https://img.shields.io/badge/-CentOS-000000?style=style=for-the-badget&logo=Centos)
-![Debian](https://img.shields.io/badge/-Debian-000000?style=style=for-the-badget&logo=Debian)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=style=for-the-badge&logo=Windows)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=style=for-the-badge&logo=IntelliJ%20IDEA)
 ![Goland](https://img.shields.io/badge/-Goland-000000?style=style=for-the-badge&logo=Goland)
