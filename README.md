@@ -23,7 +23,6 @@
 ![Istio](https://img.shields.io/badge/-Istio-000000?style=style=for-the-badge&logo=Istio)
 ![Etcd](https://img.shields.io/badge/-Etcd-000000?style=style=for-the-badge&logo=etcd)
 ![Consul](https://img.shields.io/badge/-Consul-000000?style=style=for-the-badge&logo=Consul)
-![Kong](https://img.shields.io/badge/-Kong-000000?style=style=for-the-badge&logo=Kong)
 
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=style=for-the-badge&logo=Vue.js)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=style=for-the-badge&logo=Scala)
