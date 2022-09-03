@@ -12,6 +12,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=style=for-the-badge&logo=Windows)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=style=for-the-badge&logo=IntelliJ%20IDEA)
 ![Goland](https://img.shields.io/badge/-Goland-000000?style=style=for-the-badge&logo=Goland)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=style=for-the-badge&logo=PyCharm)
 ![VScode](https://img.shields.io/badge/-VScode-000000?style=style=for-the-badge&logo=VisualStudioCode)
 
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=style=for-the-badge&logo=Go)
@@ -23,8 +24,8 @@
 ![Etcd](https://img.shields.io/badge/-Etcd-000000?style=style=for-the-badge&logo=etcd)
 ![Consul](https://img.shields.io/badge/-Consul-000000?style=style=for-the-badge&logo=Consul)
 
-![Scala](https://img.shields.io/badge/-Scala-000000?style=style=for-the-badge&logo=Scala)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=style=for-the-badge&logo=Vue.js)
+![Scala](https://img.shields.io/badge/-Scala-000000?style=style=for-the-badge&logo=Scala)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=style=for-the-badge&logo=SpringBoot)
 ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-000000?style=style=for-the-badge&logo=SpringSecurity)
 ![SpringCloud](https://img.shields.io/badge/-SpringCloud-000000?style=style=for-the-badge&logo=Alibaba%20Cloud)
