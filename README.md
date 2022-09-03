@@ -25,10 +25,10 @@
 ![Consul](https://img.shields.io/badge/-Consul-000000?style=style=for-the-badge&logo=Consul)
 
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=style=for-the-badge&logo=Vue.js)
-![Scala](https://img.shields.io/badge/-Scala-000000?style=style=for-the-badge&logo=Scala)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=style=for-the-badge&logo=SpringBoot)
 ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-000000?style=style=for-the-badge&logo=SpringSecurity)
 ![SpringCloud](https://img.shields.io/badge/-SpringCloud-000000?style=style=for-the-badge&logo=Alibaba%20Cloud)
+![Scala](https://img.shields.io/badge/-Scala-000000?style=style=for-the-badge&logo=Scala)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=style=for-the-badge&logo=ApacheHadoop)
 ![Spark](https://img.shields.io/badge/-Spark-000000?style=style=for-the-badge&logo=ApacheSpark)
 ![Flink](https://img.shields.io/badge/-Flink-000000?style=style=for-the-badge&logo=ApacheFlink)
