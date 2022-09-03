@@ -4,7 +4,7 @@
 
 
 
-### 🚀 ENV | LAN | MID
+### 🚀 OS | LAN | TECH
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=style=for-the-badge&logo=MacOS)
 ![Centos](https://img.shields.io/badge/-CentOS-000000?style=style=for-the-badget&logo=Centos)
